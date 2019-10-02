@@ -9,6 +9,7 @@ public class Main {
         int cnt = 0;
         ArrayList<LandVehicle> landVehicles = new ArrayList<>();
         ArrayList<AirVehicle> airVehicles = new ArrayList<>();
+        ArrayList<ProjectileWeapon> projectileWeapons = new ArrayList<>();
         for (int i = 0; i < 1; i++) {
             landVehicles.add(LandVehicle.makeRandomVehicle());
             airVehicles.add(AirVehicle.makeRandomAirVehicle());
@@ -18,6 +19,8 @@ public class Main {
                 System.out.println(land.speed + " KM " + land.position[0] + "=x" + " " + land.position[1] + "=y " + " Fuel Percent=" + land.gasPedal +
                         " brake percent=" + land.brakePedal + " Direction=" + land.direction + " Steering value=" + land.steeringDirection);
                 runLand(land);
+
+                projectileWeapons.add(land.fireWeapon());
                 System.out.println(land.speed + " KM " + land.position[0] + "=x" + " " + land.position[1] + "=y " + " Fuel Percent=" + land.gasPedal +
                         " brake percent=" + land.brakePedal + " Direction=" + land.direction + " Steering value=" + land.steeringDirection);
                 System.out.println(" ");
@@ -41,8 +44,8 @@ public class Main {
 
                 if(cnt == 10) {
                     System.out.println("\n\n");
-                    for (AirVehicle nudgeLand : airVehicles) {
-                        AirVehicle.nudge(nudgeLand);
+                    for (AirVehicle nudgeAir : airVehicles) {
+                        AirVehicle.nudge(nudgeAir);
                     }
                     cnt = 0;
                 }
@@ -58,6 +61,7 @@ public class Main {
         air.changeVerticalDirection();
         air.updatePosition();
         air.updateAirPosition();
+        air.fireWeapon();
     }
 
     private static void runLand(LandVehicle land) {

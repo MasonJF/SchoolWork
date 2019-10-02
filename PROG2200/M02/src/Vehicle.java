@@ -1,10 +1,12 @@
+import java.util.ArrayList;
 import java.util.Random;
 
-public abstract class Vehicle implements Health{
+public abstract class Vehicle implements Health, Attack {
     int[] position;
     double health;
-    double speed;
-    double direction;
+    ArrayList<ProjectileWeapon> projectileWeapons = new ArrayList<>();
+    double speed; // Speed of Vehicles.
+    double direction; // Direction of travel on virtual plane
     double accelerationValue = 5;
     double maxDirection = 15;
     double minDirection = -15;
@@ -80,7 +82,6 @@ public abstract class Vehicle implements Health{
         }
     }
 
-
     public void onHit(int i) {
         this.health -= i;
     }
@@ -88,7 +89,45 @@ public abstract class Vehicle implements Health{
     public void onRepair() {
         this.health = 100;
     }
-    public abstract void speedControl();
 
+    @Override
+    public ProjectileWeapon fireWeapon() {
+        Random rand = new Random();
+        int weapon = rand.nextInt(2);
+        switch(weapon) {
+            case 1:
+                double speedFaster = this.speed + 20;
+                int bulletDamage = 10;
+                int bulletSize = 1;
+                return new FireBullet(position, speedFaster, bulletDamage, bulletSize, direction);
+            case 2:
+                double speedSlower = this.speed - 30;
+                int waveDamage = 5;
+                int waveSize = 5;
+                return new FireSonicWave(position, speedSlower, waveDamage, waveSize, direction);
+            default:
+                return null;
+        }
+    }
+
+    @Override
+    public StationaryWeapon blast() {
+        Random rand = new Random();
+        int weapon = rand.nextInt(2);
+        switch(weapon) {
+            case 1:
+                int mineDamage = 25;
+                int mineSize = 10;
+                return new RearDefenseMine(position, mineDamage, mineSize);
+            case 2:
+                int blastDamage = 5;
+                int waveSize = 5;
+                return new ChimneyBlast(position, blastDamage, waveSize);
+            default:
+                return null;
+        }
+    }
+
+    public abstract void speedControl();
 
 }

@@ -12,6 +12,8 @@ public class LandVehicle extends Vehicle {
         this.brakePedal = brakePedal;
     }
 
+
+
     public boolean isFuelApplied(){
         if(this.gasPedal > this.brakePedal) {
             this.brakePedal = 0;
