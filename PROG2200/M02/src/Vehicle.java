@@ -95,12 +95,12 @@ public abstract class Vehicle implements Health, Attack {
         Random rand = new Random();
         int weapon = rand.nextInt(2);
         switch(weapon) {
-            case 1:
+            case 0:
                 double speedFaster = this.speed + 20;
                 int bulletDamage = 10;
                 int bulletSize = 1;
                 return new FireBullet(position, speedFaster, bulletDamage, bulletSize, direction);
-            case 2:
+            case 1:
                 double speedSlower = this.speed - 30;
                 int waveDamage = 5;
                 int waveSize = 5;

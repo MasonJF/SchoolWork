@@ -126,7 +126,7 @@
       <workItem from="1569415453558" duration="27369000" />
       <workItem from="1569589780424" duration="5051000" />
       <workItem from="1569942098848" duration="6645000" />
-      <workItem from="1570035875067" duration="12405000" />
+      <workItem from="1570035875067" duration="13998000" />
     </task>
     <servers />
   </component>
@@ -143,5 +143,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Vehicle.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="cnt" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -16,31 +16,34 @@ public class Main {
         }
         while(true){
             for (LandVehicle land: landVehicles) {
-                System.out.println(land.speed + " KM " + land.position[0] + "=x" + " " + land.position[1] + "=y " + " Fuel Percent=" + land.gasPedal +
-                        " brake percent=" + land.brakePedal + " Direction=" + land.direction + " Steering value=" + land.steeringDirection);
+//                System.out.println(land.speed + " KM " + land.position[0] + "=x" + " " + land.position[1] + "=y " + " Fuel Percent=" + land.gasPedal +
+//                        " brake percent=" + land.brakePedal + " Direction=" + land.direction + " Steering value=" + land.steeringDirection);
                 runLand(land);
-
-                projectileWeapons.add(land.fireWeapon());
-                System.out.println(land.speed + " KM " + land.position[0] + "=x" + " " + land.position[1] + "=y " + " Fuel Percent=" + land.gasPedal +
-                        " brake percent=" + land.brakePedal + " Direction=" + land.direction + " Steering value=" + land.steeringDirection);
+//                System.out.println(land.speed + " KM " + land.position[0] + "=x" + " " + land.position[1] + "=y " + " Fuel Percent=" + land.gasPedal +
+//                        " brake percent=" + land.brakePedal + " Direction=" + land.direction + " Steering value=" + land.steeringDirection);
                 System.out.println(" ");
 
                 if(cnt == 10) {
                     System.out.println("\n\n");
                     for (LandVehicle nudgeLand : landVehicles) {
                         LandVehicle.nudge(nudgeLand);
+                        projectileWeapons.add(nudgeLand.fireWeapon());
                     }
                     cnt = 0;
                 }
             }
 
+            for (ProjectileWeapon test: projectileWeapons) {
+                System.out.println(test.damage + " " + test.size + " " + test.position[0] + " " + test.position [1]);
+            }
+
             for (AirVehicle air: airVehicles) {
-                System.out.println(air.speed + " KM " + air.propSpeed + "=PropSpeed "   +  air.position[0] + "=x" + " " + air.position[1] +
-                        "=y " + air.position[2] + "=z" +  " Direction=" + air.direction + " VerticalDirection=" + air.verticalDirection +  " " + air.tiltDirection + "=TiltDirection " + " Steering value=" + air.steeringDirection);
+//                System.out.println(air.speed + " KM " + air.propSpeed + "=PropSpeed "   +  air.position[0] + "=x" + " " + air.position[1] +
+//                        "=y " + air.position[2] + "=z" +  " Direction=" + air.direction + " VerticalDirection=" + air.verticalDirection +  " " + air.tiltDirection + "=TiltDirection " + " Steering value=" + air.steeringDirection);
                 runAir(air);
-                System.out.println(air.speed + " KM " + air.propSpeed + "=PropSpeed "   +  air.position[0] + "=x" + " " + air.position[1] +
-                        "=y " + air.position[2] + "=z" +  " Direction=" + air.direction + " VerticalDirection=" + air.verticalDirection +  " " + air.tiltDirection + "=TiltDirection " + " Steering value=" + air.steeringDirection);
-                System.out.println(" ");
+//                System.out.println(air.speed + " KM " + air.propSpeed + "=PropSpeed "   +  air.position[0] + "=x" + " " + air.position[1] +
+//                        "=y " + air.position[2] + "=z" +  " Direction=" + air.direction + " VerticalDirection=" + air.verticalDirection +  " " + air.tiltDirection + "=TiltDirection " + " Steering value=" + air.steeringDirection);
+//                System.out.println(" ");
 
                 if(cnt == 10) {
                     System.out.println("\n\n");
