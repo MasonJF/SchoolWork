@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <ul>
+    {% for owner in owners%}
+        <li><a href="/pets/{{ owner.id }}/">{{ owner.owner_name }}</a></li>
+    {% endfor %}
+
+    <li><a href="/pets/master">Master Data</a></li>
+    <li><a href="/pets/masterShart">Master Chart</a></li>
+    </ul>
+</body>
+</html>
