@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GIT/PROG2100/A1/Plane.h
+iostream
+-
+
+C:/GIT/PROG2100/A1/Queue.cpp
+Queue.h
+C:/GIT/PROG2100/A1/Queue.h
+
+C:/GIT/PROG2100/A1/Queue.h
+cassert
+-
+cstdio
+-
+
+C:/GIT/PROG2100/A1/main.cpp
+iostream
+-
+Queue.h
+C:/GIT/PROG2100/A1/Queue.h
+Plane.h
+C:/GIT/PROG2100/A1/Plane.h
+
