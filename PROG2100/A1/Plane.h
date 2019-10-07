@@ -9,11 +9,16 @@
 #include <iostream>
 
 class Plane {
+
 public:
-    explicit Plane(int id);
+    explicit Plane(int currentTime);
 
     friend std::ostream& operator<<(std::ostream& os, const Plane& plane);
     int id_;
+    int currentTime_;
+
+private:
+    static int planeId;
 };
 
 

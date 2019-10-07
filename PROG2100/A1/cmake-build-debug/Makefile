@@ -149,6 +149,33 @@ Plane.cpp.s:
 	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/Plane.cpp.s
 .PHONY : Plane.cpp.s
 
+PlaneGenerator.obj: PlaneGenerator.cpp.obj
+
+.PHONY : PlaneGenerator.obj
+
+# target to build an object file
+PlaneGenerator.cpp.obj:
+	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/PlaneGenerator.cpp.obj
+.PHONY : PlaneGenerator.cpp.obj
+
+PlaneGenerator.i: PlaneGenerator.cpp.i
+
+.PHONY : PlaneGenerator.i
+
+# target to preprocess a source file
+PlaneGenerator.cpp.i:
+	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/PlaneGenerator.cpp.i
+.PHONY : PlaneGenerator.cpp.i
+
+PlaneGenerator.s: PlaneGenerator.cpp.s
+
+.PHONY : PlaneGenerator.s
+
+# target to generate assembly for a file
+PlaneGenerator.cpp.s:
+	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/PlaneGenerator.cpp.s
+.PHONY : PlaneGenerator.cpp.s
+
 Queue.obj: Queue.cpp.obj
 
 .PHONY : Queue.obj
@@ -175,6 +202,33 @@ Queue.s: Queue.cpp.s
 Queue.cpp.s:
 	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/Queue.cpp.s
 .PHONY : Queue.cpp.s
+
+Runway.obj: Runway.cpp.obj
+
+.PHONY : Runway.obj
+
+# target to build an object file
+Runway.cpp.obj:
+	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/Runway.cpp.obj
+.PHONY : Runway.cpp.obj
+
+Runway.i: Runway.cpp.i
+
+.PHONY : Runway.i
+
+# target to preprocess a source file
+Runway.cpp.i:
+	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/Runway.cpp.i
+.PHONY : Runway.cpp.i
+
+Runway.s: Runway.cpp.s
+
+.PHONY : Runway.s
+
+# target to generate assembly for a file
+Runway.cpp.s:
+	$(MAKE) -f CMakeFiles\A1.dir\build.make CMakeFiles/A1.dir/Runway.cpp.s
+.PHONY : Runway.cpp.s
 
 Timer.obj: Timer.cpp.obj
 
@@ -242,9 +296,15 @@ help:
 	@echo ... Plane.obj
 	@echo ... Plane.i
 	@echo ... Plane.s
+	@echo ... PlaneGenerator.obj
+	@echo ... PlaneGenerator.i
+	@echo ... PlaneGenerator.s
 	@echo ... Queue.obj
 	@echo ... Queue.i
 	@echo ... Queue.s
+	@echo ... Runway.obj
+	@echo ... Runway.i
+	@echo ... Runway.s
 	@echo ... Timer.obj
 	@echo ... Timer.i
 	@echo ... Timer.s

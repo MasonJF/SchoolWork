@@ -86,10 +86,22 @@
 		<Unit filename="C:/GIT/PROG2100/A1/Plane.h">
 			<Option target="A1"/>
 		</Unit>
+		<Unit filename="C:/GIT/PROG2100/A1/PlaneGenerator.cpp">
+			<Option target="A1"/>
+		</Unit>
+		<Unit filename="C:/GIT/PROG2100/A1/PlaneGenerator.h">
+			<Option target="A1"/>
+		</Unit>
 		<Unit filename="C:/GIT/PROG2100/A1/Queue.cpp">
 			<Option target="A1"/>
 		</Unit>
 		<Unit filename="C:/GIT/PROG2100/A1/Queue.h">
+			<Option target="A1"/>
+		</Unit>
+		<Unit filename="C:/GIT/PROG2100/A1/Runway.cpp">
+			<Option target="A1"/>
+		</Unit>
+		<Unit filename="C:/GIT/PROG2100/A1/Runway.h">
 			<Option target="A1"/>
 		</Unit>
 		<Unit filename="C:/GIT/PROG2100/A1/Timer.cpp">

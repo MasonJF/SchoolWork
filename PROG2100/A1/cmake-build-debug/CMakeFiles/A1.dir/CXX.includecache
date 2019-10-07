@@ -6,19 +6,33 @@
 
 #IncludeRegexTransform: 
 
+C:/GIT/PROG2100/A1/Plane.cpp
+Plane.h
+C:/GIT/PROG2100/A1/Plane.h
+
 C:/GIT/PROG2100/A1/Plane.h
 iostream
 -
 
-C:/GIT/PROG2100/A1/Queue.cpp
+C:/GIT/PROG2100/A1/PlaneGenerator.cpp
+PlaneGenerator.h
+C:/GIT/PROG2100/A1/PlaneGenerator.h
+
+C:/GIT/PROG2100/A1/PlaneGenerator.h
 Queue.h
 C:/GIT/PROG2100/A1/Queue.h
+Timer.h
+C:/GIT/PROG2100/A1/Timer.h
+Plane.h
+C:/GIT/PROG2100/A1/Plane.h
 
 C:/GIT/PROG2100/A1/Queue.h
 cassert
 -
 cstdio
 -
+
+C:/GIT/PROG2100/A1/Timer.h
 
 C:/GIT/PROG2100/A1/main.cpp
 iostream
@@ -27,4 +41,8 @@ Queue.h
 C:/GIT/PROG2100/A1/Queue.h
 Plane.h
 C:/GIT/PROG2100/A1/Plane.h
+PlaneGenerator.h
+C:/GIT/PROG2100/A1/PlaneGenerator.h
+Timer.h
+C:/GIT/PROG2100/A1/Timer.h
 
