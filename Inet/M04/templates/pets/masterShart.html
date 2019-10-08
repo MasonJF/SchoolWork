@@ -11,7 +11,14 @@ var ctx = document.getElementById('myChart').getContext('2d');
 
 var myChart = new Chart(ctx, {
     type: 'doughnut',
+<<<<<<< HEAD
         data: data = {
+=======
+        data: data,
+    options: Chart.defaults.pie;
+});
+    data = {
+>>>>>>> b10bac453fd2f0587ad2015186181f2b0191485b
         datasets: [{
             data: [{% for pet in owners %}
                 {{ pet.num_pets }},
