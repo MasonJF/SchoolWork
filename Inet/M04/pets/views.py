@@ -1,3 +1,4 @@
+from django.db.models import Count
 from django.http import HttpResponse
 from django.http import Http404
 from django.shortcuts import render, get_object_or_404
@@ -38,11 +39,13 @@ class MasterView(generic.ListView):
         return Pet.objects.all()
 
 
-
 class ResultsView(generic.ListView):
-    model = Pet
+    # model = Pet
     template_name = 'pets/masterShart.html'
+    context_object_name = 'owners'
+
 
     def get_queryset(self):
-        return Pet.objects.all()
+        return Pet.objects.values('pet_type').annotate(num_pets=Count('pet_type'))
+
 

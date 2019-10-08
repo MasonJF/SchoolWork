@@ -5,6 +5,10 @@
     <title>Title</title>
 </head>
 <body>
+<a href="{% url 'index' %}">Home Page</a>
+<a href="{% url 'master' %}">Master Data</a>
+<a href="{% url 'masterShart' %}">Chart</a>
+
     <ul>
     <h2>{{owner.owner_name}}</h2>
     {% for pet in owner.pet_set.all%}

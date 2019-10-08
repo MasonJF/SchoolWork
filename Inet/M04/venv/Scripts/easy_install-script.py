@@ -1,4 +1,4 @@
-#!C:\GIT\w0422681\INET2005\M04\venv\Scripts\python.exe
+#!D:\GIT\SchoolWork\Inet\M04\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re

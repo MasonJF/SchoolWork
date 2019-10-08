@@ -1,24 +1,28 @@
+<a href="{% url 'index' %}">Home Page</a>
+<a href="{% url 'master' %}">Master Data</a>
+<a href="{% url 'masterShart' %}">Chart</a>
+
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.bundle.min.js"></script>
 <canvas id="myChart" width="200" height="200"></canvas>
 <script>
 
 
 var ctx = document.getElementById('myChart').getContext('2d');
+
 var myChart = new Chart(ctx, {
     type: 'doughnut',
-        data: data,
+        data: data = {
+        datasets: [{
+            data: [{% for pet in owners %}
+                {{ pet.num_pets }},
+            {% endfor %}],
+        }],
+{% for owner in pet%}
+ {{ owner.pet }}
+{% endfor %}
+        // These labels appear in the legend and in the tooltips when hovering different arcs
+        labels: [ {% for pet in owners%}'{{ pet.pet_type }}', {% endfor %}]
+    },
     options: Chart.defaults.doughnut
 });
-    data = {
-        datasets: [{
-            data: [10, 20, 30]
-        }],
-
-        // These labels appear in the legend and in the tooltips when hovering different arcs
-        labels: [
-            'Red',
-            'Yellow',
-            'Blue'
-        ]
-    };
 </script>

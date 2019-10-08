@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\GIT\w0422681\INET2005\M04\venv"
+$env:VIRTUAL_ENV="D:\GIT\SchoolWork\Inet\M04\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
