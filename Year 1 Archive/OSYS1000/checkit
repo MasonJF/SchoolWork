@@ -1,0 +1,9 @@
+#! /bin/bash
+
+if ! [[ -e "$HOME/_usr_bin_sign" ]] ; then
+  sha1sum $(find /usr/bin/ -perm /6000) > ~/_usr_bin_sign
+elif [[ -e "$HOME/_usr_bin_sign" ]]; then
+  sha1sum $(find /usr/bin/ -perm /6000) > /var/tmp/_usr_bin_sign
+  diff -q ~/_usr_bin_sign /var/tmp/_usr_bin_sign
+fi
+echo "done"

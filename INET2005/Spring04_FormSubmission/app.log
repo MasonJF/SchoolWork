@@ -1,0 +1,19 @@
+2019-11-28 09:08:23.889 ERROR 35704 --- [main] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'all' for 'hello'
+2019-11-28 09:08:23.981  INFO 35704 --- [main] hello.Application                        : Starting Application on DESKTOP-GAQLJ56 with PID 35704 (C:\GIT\w0422681\INET2005\Spring04_FormSubmission\target\classes started by Mason Fraser in C:\GIT\w0422681\INET2005\Spring04_FormSubmission)
+2019-11-28 09:08:23.981  INFO 35704 --- [main] hello.Application                        : No active profile set, falling back to default profiles: default
+2019-11-28 09:08:25.303  INFO 35704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-28 09:08:25.324  INFO 35704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-28 09:08:25.330  INFO 35704 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-11-28 09:08:25.423  INFO 35704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-28 09:08:25.424  INFO 35704 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1404 ms
+2019-11-28 09:08:25.643  INFO 35704 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-28 09:08:25.916  INFO 35704 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-11-28 09:08:25.961  INFO 35704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-28 09:08:25.964  INFO 35704 --- [main] hello.Application                        : Started Application in 2.442 seconds (JVM running for 2.846)
+2019-11-28 09:08:25.965  INFO 35704 --- [main] hello.AppRunner                          : .... Fetching books
+2019-11-28 09:08:28.971  INFO 35704 --- [main] hello.AppRunner                          : isbn-1234 -->Book{isbn='isbn-1234', title='Some book'}
+2019-11-28 09:08:28.972  INFO 35704 --- [main] hello.AppRunner                          : isbn-1234 -->Book{isbn='isbn-1234', title='Some book'}
+2019-11-28 09:08:28.973  INFO 35704 --- [main] hello.AppRunner                          : isbn-1234 -->Book{isbn='isbn-1234', title='Some book'}
+2019-11-28 09:12:34.346  INFO 35704 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-28 09:12:34.347  INFO 35704 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-28 09:12:34.354  INFO 35704 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms

@@ -1,0 +1,52 @@
+{#{% extends "Models/base.html" %}#}
+{% extends "Models/base.html" %}
+{% block content %}
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.bundle.min.js"></script>
+    <div style="max-width: 75%">
+        <canvas id="myChart" width="200" height="200"></canvas>
+
+
+    </div>
+    <script>
+
+
+        var ctx = document.getElementById('myChart').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: data = {
+                datasets: [{
+                    data: [{% for course, student in object_list.items %}
+                        {{ student }},
+                    {% endfor %}],
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(255, 128, 0, 0.2)',
+                        'rgba(255, 0, 255, 0.2)',
+                        'rgba(64, 64, 64, 0.2)',
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(255, 128, 0, 1)',
+                        'rgba(255, 0, 255, 1)',
+                        'rgba(64, 64, 64, 1)',
+                    ],
+
+                }],
+
+                // These labels appear in the legend and in the tooltips when hovering different arcs
+                labels: [{% for course in object_list %}
+                    '{{ course }}',
+                {% endfor %}],
+            },
+
+
+        });
+
+    </script>
+
+{% endblock %}

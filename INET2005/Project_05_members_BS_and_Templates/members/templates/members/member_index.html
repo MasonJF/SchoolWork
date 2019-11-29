@@ -1,0 +1,20 @@
+{% extends "members/base.html" %}
+{% block title %}Russ's Member Home Oage{% endblock %}
+
+{% block content-1 %}
+<h1>List of Members:</h1>
+
+{% if list %}
+<ul>
+    {% for item in list %}
+    <li><a href="{% url 'members:member_results' item.id %}">{{ item.first_name }} {{ item.last_name }} </a></li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>Not available.</p>
+{% endif %}
+{% endblock %}
+
+{% block content-2 %}
+<h4>Nothing to see here</h4>
+{% endblock %}

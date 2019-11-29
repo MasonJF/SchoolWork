@@ -8,18 +8,22 @@
 #include "Queue.h"
 #include "Timer.h"
 #include "Plane.h"
+#include "Delay.h"
 
 class PlaneGenerator {
 
 public:
-    PlaneGenerator(Queue *, Timer *);
+    PlaneGenerator(Queue *, Timer *, int);
     virtual ~PlaneGenerator();
     void tickUpdate();
 
+
+
 private:
+    Delay* delay;
     Queue* tempQueue;
     Timer* timer;
-    int nextId;
+    int time;
 };
 
 

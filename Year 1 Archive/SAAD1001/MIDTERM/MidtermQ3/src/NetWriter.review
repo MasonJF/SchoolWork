@@ -1,0 +1,34 @@
+======= File: NetWriter.review ========
+
+File: NetWriter.java
+Author: Russell Shanahan
+W-number: notreallysuresorryruss.
+
+Date Reviewed last: Feb 12 2019
+Date fixed last: Feb 12 2019
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# MF = Mason Fraser
+#
+
+MF-03; line 16; J04; Information Hiding, access can be private; NEW
+MF-04; line 24; J04; Information Hiding, access can be private; NEW
+MF-05; line 25; J04; Information Hiding, access can be private; NEW
+MF-06; line 26; J04; Information Hiding, access can be private; NEW
+MF-07; line 27; J04; Information Hiding, access can be private; NEW
+MF-08; line 48; J01; Don't use abbreviations in names!; NEW
+
+
+
+
+MF-01; line 1; R00; Missing author's name; F
+MF-03; line 16; J04; Information Hiding, access can be private; F
+MF-04; line 24; J04; Information Hiding, access can be private; F
+MF-05; line 25; J04; Information Hiding, access can be private; F
+MF-06; line 26; J04; Information Hiding, access can be private; F
+MF-07; line 27; J04; Information Hiding, access can be private; F
+MF-08; line 48; J01; Don't use abbreviations in names!; F

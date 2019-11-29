@@ -1,0 +1,25 @@
+{% extends "members/base.html" %}
+{% block title %}Russ's Member Home Oage{% endblock %}
+
+{% block content-1 %}
+<h1>Member:</h1>
+<ul>
+<li>{{ member.first_name }}</li>
+<li>{{ member.last_name }}</li>
+<li>Member Active: {{ member.active }}</li>
+</ul>
+{% endblock %}
+
+
+{% block content-2 %}
+<h1>Registered for Conferences:</h1>
+{% if member.conference_set.all %}
+    <ul>
+        {% for item in member.conference_set.all %}
+            <li><a href="{% url 'members:conference_results' item.id %}">{{ item }}</a></li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>Not available.</p>
+{% endif %}
+{% endblock %}

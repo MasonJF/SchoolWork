@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32583043-b84e-45b8-ab8b-3cad91e95fc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/RcmClassFiles/FirstBoot.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RcmClassFiles/FirstBoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/FileIO.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/FileViewer.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/Main.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/MainMenu.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/MainMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/NameFile.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/OpenFileFilter.review" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/Coords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/M05 Small app with display.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/groups.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/META-INF/M05 Small app with display.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/.idea/Testapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/DrawHere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/GuiSystem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/GuiSystem$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/GuiSystem$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/GuiSystem$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/GuiSystem$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/GuiSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/Main_GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/Perfection/circleData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/out/production/M05 Small app with display/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/.idea/Testapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/DrawHere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/FileIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/GuiSystem.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/GuiSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/Main_GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/src/Perfection/circleData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../M12 DotGrouping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/groups_9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M12 DotGrouping/out/production/M05 Small app with display/META-INF/M05 Small app with display.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF Manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PDF Manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/FileBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/FileBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/MainMenu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/MainMenu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/MainMenu$FileInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/MainMenu$FileInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PDF Manager/RcmClassFiles/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/META-INF/RCM Mockup.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/FileViewer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/FileViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/MainMenu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/MainMenu$FileInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/NameFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/RcmClassFiles/OpenFileFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RCM Mockup/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selectedRoot.rotxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RcmClassFiles/FileBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RcmClassFiles/FileBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RcmClassFiles/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RcmClassFiles/FileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RcmClassFiles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RcmClassFiles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RcmClassFiles/MainMenu.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/RcmClassFiles/MainMenu.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RcmClassFiles/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RcmClassFiles/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/RCM Mockup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/RCM Mockup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/META-INF/RCM Mockup.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/RcmClassFiles/MainMenu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/RcmClassFiles/MainMenu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/RcmClassFiles/MainMenu$FileInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/RcmClassFiles/MainMenu$FileInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/RcmClassFiles/MainMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/out/production/RCM Mockup/RcmClassFiles/MainMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/selectedRoot.rotxt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/selectedRoot.rotxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/M09RCMmockup/src/RcmClassFiles/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SAAD1001/PDFManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SAAD1001/PDFManager/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/MainMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2222">
+              <caret line="302" column="52" lean-forward="true" selection-start-line="302" selection-start-column="52" selection-end-line="302" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#11743#11744#0" expanded="true" />
+                <element signature="e#11776#11777#0" expanded="true" />
+                <element signature="e#11832#11833#0" expanded="true" />
+                <element signature="e#11876#11877#0" expanded="true" />
+                <marker date="1554899823520" expanded="true" signature="125:490" ph="..." />
+                <marker date="1554899823520" expanded="true" signature="2294:2952" ph="..." />
+                <marker date="1554899823520" expanded="true" signature="2953:3540" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createNo</find>
+      <find>createUI</find>
+      <find>createUIComponents</find>
+      <find>treeSelection</find>
+      <find>s</find>
+      <find>selected info</find>
+      <find>workingFile</find>
+      <find>aNode</find>
+      <find>selection</find>
+      <find>comment</find>
+      <find>commentCounter</find>
+      <find>browse</find>
+      <find>add</find>
+      <find>addBu</find>
+      <find>Path</find>
+      <find>frame</find>
+      <find>brose</find>
+      <find>Root:</find>
+      <find>selectedRoot</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FileViewer.form" />
+        <option value="$PROJECT_DIR$/src/Test2.form" />
+        <option value="$PROJECT_DIR$/src/MainMenu.form" />
+        <option value="$PROJECT_DIR$/src/NameFile.form" />
+        <option value="$PROJECT_DIR$/src/MainMenu.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/OpenFileFilter.java" />
+        <option value="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.review" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/FileViewer.form" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/FileViewer.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/NameFile.form" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/NameFile.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/FileBrowser.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/FileIO.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/MainMenu.form" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/Main.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/FirstBoot.form" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/FirstBoot.java" />
+        <option value="$PROJECT_DIR$/src/RcmClassFiles/MainMenu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="715" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RCM Mockup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PDFManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RCM Mockup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PDFManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RCM Mockup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PDFManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RcmClassFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="278" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554319241231" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="RcmClassFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/RcmClassFiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FirstBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RcmClassFiles.FirstBoot" />
+      <module name="PDF Manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RcmClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RcmClassFiles.Main" />
+      <module name="PDF Manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RcmClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainMenu" />
+      <module name="PDF Manager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RcmClassFiles.NameFile" />
+      <module name="PDF Manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RcmClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FirstBoot" />
+        <item itemvalue="Application.NameFile" />
+        <item itemvalue="Application.MainMenu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32583043-b84e-45b8-ab8b-3cad91e95fc5" name="Default Changelist" comment="" />
+      <created>1551971432793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551971432793</updated>
+      <workItem from="1551971434209" duration="1666000" />
+      <workItem from="1551976938972" duration="541000" />
+      <workItem from="1551977658659" duration="1603000" />
+      <workItem from="1552058369945" duration="319000" />
+      <workItem from="1552329908539" duration="30449000" />
+      <workItem from="1552478450057" duration="77000" />
+      <workItem from="1552478653759" duration="906000" />
+      <workItem from="1552501223584" duration="2310000" />
+      <workItem from="1552690069564" duration="1167000" />
+      <workItem from="1553607801756" duration="595000" />
+      <workItem from="1553628864056" duration="2042000" />
+      <workItem from="1553779364497" duration="558000" />
+      <workItem from="1553783333605" duration="228000" />
+      <workItem from="1553784956352" duration="29000" />
+      <workItem from="1553961656367" duration="7023000" />
+      <workItem from="1554052790047" duration="10566000" />
+      <workItem from="1554129551413" duration="26416000" />
+      <workItem from="1554223177139" duration="15039000" />
+      <workItem from="1554386774218" duration="578000" />
+      <workItem from="1554390628670" duration="73000" />
+      <workItem from="1554396620257" duration="15499000" />
+      <workItem from="1554494614975" duration="6198000" />
+      <workItem from="1554993585931" duration="697000" />
+      <workItem from="1555004072912" duration="250000" />
+      <workItem from="1555332001801" duration="13000" />
+      <workItem from="1555512190211" duration="841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125683000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="715" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1825525" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.34991974" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.42215088" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32905295" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32744783" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24959612" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1631664" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.048154093" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.42215088" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32905295" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32744783" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RcmClassFiles/FileIO.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RCM_Mockup$Main.ic" NAME="Main Coverage Results" MODIFIED="1554993600604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RcmClassFiles.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fileView.java" />
+    <entry file="file://$PROJECT_DIR$/src/fileView.form" />
+    <entry file="file://$PROJECT_DIR$/src/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test2.form" />
+    <entry file="file://$PROJECT_DIR$/src/Test.jfd" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="jar://$USER_HOME$/Downloads/JFormDesigner/lib/jgoodies-forms.jar!/com/jgoodies/forms/layout/FormSpec.class" />
+    <entry file="file://$PROJECT_DIR$/../../APPD1001/M05 Managment Mockup/src/PDFManager/WindowManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../APPD1001/M05 Managment Mockup/src/PDFManager/FileChooserSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1256" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/OpenFileFilter.review" />
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/OpenFileFilter.java" />
+    <entry file="file://$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.review">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="2669" selection-start-line="2669" selection-end-line="2669" />
+          <folding>
+            <element signature="e#104730#104731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/com/apple/laf/AquaTreeUI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="506" selection-start-line="506" selection-end-line="506" />
+          <folding>
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2145#2146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/RcmClassFiles.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>RcmClassFiles.Main</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">RcmClassFiles.MainMenu</node>
+            <node x="0.0" y="670.0">RcmClassFiles.FileIO</node>
+            <node x="286.0" y="670.0">RcmClassFiles.Main</node>
+            <node x="420.0" y="0.0">RcmClassFiles.FileViewer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-225.0" y="44.0" />
+          <SelectedNodes>
+            <node>RcmClassFiles.MainMenu</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/FileViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/NameFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/FileViewer.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/FileBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/FileIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/FirstBoot.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/MainMenu.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/FirstBoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/NameFile.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selectedRoot.rotxt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RcmClassFiles/MainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2222">
+          <caret line="302" column="52" lean-forward="true" selection-start-line="302" selection-start-column="52" selection-end-line="302" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#11743#11744#0" expanded="true" />
+            <element signature="e#11776#11777#0" expanded="true" />
+            <element signature="e#11832#11833#0" expanded="true" />
+            <element signature="e#11876#11877#0" expanded="true" />
+            <marker date="1554899823520" expanded="true" signature="125:490" ph="..." />
+            <marker date="1554899823520" expanded="true" signature="2294:2952" ph="..." />
+            <marker date="1554899823520" expanded="true" signature="2953:3540" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_191</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PDF Manager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>MigLayout</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

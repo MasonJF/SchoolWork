@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c0c7292-e0f7-4c5e-9003-35795ee427f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/MyView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/attrs_my_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OSYS1000/calc.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array REV2.tar.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/M02_Array" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/META-INF/PROG1400M03 Classes and Objects.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Juiceyorange.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Juiceyorange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Projectile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Projectile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Waterbottle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/out/production/PROG1400M03 Classes and Objects/Part2/Waterbottle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/src/Part2/Projectile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG1400/PROG1400M03 Classes and Objects/src/Part2/Projectile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/aux.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/aux.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/a2.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/a2.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/aux.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/aux.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/M02_Array.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/M02_Array.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/M02_Array.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../PROG2007/M02 Array/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="867065341">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-70" />
+    <option name="y" value="66" />
+    <option name="width" value="1144" />
+    <option name="height" value="905" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c0c7292-e0f7-4c5e-9003-35795ee427f8" name="Default Changelist" comment="" />
+      <created>1548955098835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548955098835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="1024" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3298217" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3295838" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

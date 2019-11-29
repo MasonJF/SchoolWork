@@ -18,7 +18,7 @@ public class DorthyClass {
         DorthyClass.favColor = favColor;
     }
 
-    public synchronized static String getStaticThreadFavorite(){
+    public synchronized static String getStaticThreadFavorite() {
         mySleep(20);
         return "Dorths fav is " + DorthyClass.favCharacter +
                 " and her fav colour is " + DorthyClass.favColor;

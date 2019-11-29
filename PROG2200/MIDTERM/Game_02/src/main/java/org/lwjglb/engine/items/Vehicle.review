@@ -1,0 +1,19 @@
+======= File: Vehicle.review ========
+
+File: Vehicle.java
+Author: Mason Fraser
+W-number: w0422681
+
+Date Reviewed last: Oct 18 2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+#
+# BM=Bailey Mullen
+#
+BM-01; line 1; R00; Missing author's name; NEW
+BM-02; line 5; C11; Commented out code; NEW
+BM-03; line 24; C11; Commented out code; NEW
+BM-04; line 39; NAMING-02; enums are Classes and should follow the conventions for classes; NEW
+BM-05; line 82-102; C11; Commented out code; NEW

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+read -p "Where would you like to Pull: " arg1
+if [ ! -z "$arg1" ]
+then
+  rsync -rq ~/$arg1 it806@142.177.80.67:~/Assignment1
+else
+  echo "You cannot copy to nowhere silly goose! :("
+fi

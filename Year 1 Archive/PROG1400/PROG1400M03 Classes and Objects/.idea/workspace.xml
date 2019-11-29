@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1658ef-7084-4c0e-b519-960122374374" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Game_03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/engine/items/GameItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/engine/items/GameItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/engine/items/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/DummyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/DummyGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/engine/items/GameItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/engine/items/GameItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/DummyGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/DummyGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/GameGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/target/classes/org/lwjglb/game/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../M05 Small app with display/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M05 Small app with display/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../M05 Small app with display/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Part1/projectile.java" />
+        <option value="$PROJECT_DIR$/src/Part1/Projectile.java" />
+        <option value="$PROJECT_DIR$/src/Part1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Part2/Waterbomb.java" />
+        <option value="$PROJECT_DIR$/src/Part2/Waterbottle.java" />
+        <option value="$PROJECT_DIR$/src/Part2/Juiceyorange.java" />
+        <option value="$PROJECT_DIR$/src/Part2/Main.java" />
+        <option value="$PROJECT_DIR$/src/Part2/Projectile.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1152" />
+    <option name="y" value="321" />
+    <option name="width" value="1270" />
+    <option name="height" value="749" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PROG1400M03 Classes and Objects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROG1400M03 Classes and Objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROG1400M03 Classes and Objects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROG1400M03 Classes and Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROG1400M03 Classes and Objects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROG1400M03 Classes and Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Part1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROG1400M03 Classes and Objects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROG1400M03 Classes and Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Part2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548695801295" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Part2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Part2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.Main" />
+      <module name="PROG1400M03 Classes and Objects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1.Main" />
+      <module name="PROG1400M03 Classes and Objects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1658ef-7084-4c0e-b519-960122374374" name="Default Changelist" comment="" />
+      <created>1548082921381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548082921381</updated>
+      <workItem from="1549036145016" duration="116000" />
+      <workItem from="1552162537082" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="-Part one complete">
+      <created>1548089099230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548089099230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29424307" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3849711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-Part one complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Part one complete" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Part2/Waterbottle.java</url>
+          <line>5</line>
+          <properties class="Part2.Waterbottle" method="explode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part2/Waterbottle.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part2/Waterbottle.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part2/Waterbottle.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part2/Waterbottle.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Part1/Projectile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROG1400M03 Classes and Objects.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part2/Projectile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part2/Waterbomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part2/Waterbottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part2/Juiceyorange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

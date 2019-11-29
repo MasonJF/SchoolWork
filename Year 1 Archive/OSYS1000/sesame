@@ -1,0 +1,24 @@
+#! /bin/bash
+cd        #Sets the directory to home no matter where the file is launched
+ls
+echo "The script starts from your home directory"
+echo "This script will make a given directory public, or private use with care"
+read -p "Enter the directory to make Public/Private: " arg
+# find $arg -perm 0755
+if [ $(stat -c "%a" "$arg") == "644" ]  #Checks if the file permissions are private
+then
+  read -p "Change $arg to Public? (y/n) " yn  #User conformation Required.
+    case $yn in
+      [Yy]* ) chmod -R 755 $arg; echo "Success! $arg is now Public!";;  #sets the permissions to public
+      [Nn]* ) exit;;
+      * ) "Yes (Y) or No (N) Required!"
+    esac
+elif [ $(stat -c "%a" $arg) == "755" ]  #checks if the file permissions are public
+ then
+    read -p "Change $arg to Private? (y/n) " yn
+      case $yn in
+        [Yy]* ) chmod -R 644 $arg; echo "Success! $arg is now Private!";; #Sets the permissions to Private
+        [Nn]* ) exit;;
+        * ) "Yes (Y) or No (N) Required!"
+      esac
+fi

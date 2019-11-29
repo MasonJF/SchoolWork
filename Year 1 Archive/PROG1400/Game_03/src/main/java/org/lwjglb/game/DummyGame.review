@@ -1,0 +1,28 @@
+======= File: DummyGame.review ========
+
+File: DummyGame.java
+Author: Mason Fraser
+W-number: w0422681
+
+Date Reviewed last: 3/11/2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# CJ=Cadel Jones
+#
+CJ-01; Appears Many Times; SM-M06; Lines are too long; NEW
+CJ-02; line 1; R00; Missing author's name; NEW
+CJ-03; line 46; J01; No longer Dummy and not really a game so this class should probably have a different name; NEW
+CJ-04; line 56; J04; Could be private; NEW
+CJ-05; line 46; SM-C01; DummyGame is probably to large; NEW
+CJ-06; line 70; J01; t is a cryptic variable name; NEW
+CJ-07; line 112; SM-C11; Unused Commented-out code; NEW
+CJ-08; line 326; J04; Could be private; NEW
+CJ-09; line 342; J04; Could be private; NEW
+CJ-10; line 359; J04; Could be private; NEW
+
+ZD-01; Line 240; J01; Cryptic Variable; NEW

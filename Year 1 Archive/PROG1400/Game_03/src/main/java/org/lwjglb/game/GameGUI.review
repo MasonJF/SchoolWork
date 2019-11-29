@@ -1,0 +1,26 @@
+=======GameGUI.review ========
+File: GameGUI.java
+Author: Mason Fraser
+W-number: w0422681
+
+Date Reviewed last: 3/11/2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# CJ=Cadel Jones
+#
+CJ-01; line 1; R00; Missing author's name; NEW
+CJ-02; line 39; J04; Variable should be private and they should be accessed through a method; NEW
+CJ-03; line 40; J04; Variable should be private and they should be accessed through a method; NEW
+CJ-04; line 41; J04; Variable should be private and they should be accessed through a method; FIXED
+CJ-05; line 42; J04; Variable should be private and they should be accessed through a method; FIXED
+
+CJ-06; line 53, 61, 68, 101, 121, 144, 151, 158, 165; SM-A02; Could use lambda function; NA
+
+ZD-01; Line 32-37; J01; Cryptic Variables; NEW
+ZD-02; Line 39-42; Improper casting of variables. Should be Boolean; NEW
+ZD-03; Line 10; Smell-C03; Inappropriate intimacy; NEW

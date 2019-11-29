@@ -1,0 +1,17 @@
+File: NameFile.review
+Author:
+W-number:
+
+Date Reviewed last: Apr. 3rd. 2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# CJ = Cadel Jones
+#
+
+ZD-01; R00; Missing Author Name; NEW
+ZD-02; SMELL-C05; I don't believe this class does anything; NEW

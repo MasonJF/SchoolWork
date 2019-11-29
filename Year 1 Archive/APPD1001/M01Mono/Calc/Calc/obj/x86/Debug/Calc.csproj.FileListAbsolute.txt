@@ -1,0 +1,6 @@
+/home/mason/git_repo/w0422681/SAAD1001/M01Mono/Calc/Calc/bin/Debug/Calc.exe
+/home/mason/git_repo/w0422681/SAAD1001/M01Mono/Calc/Calc/bin/Debug/Calc.pdb
+/home/mason/git_repo/w0422681/SAAD1001/M01Mono/Calc/Calc/obj/x86/Debug/Calc.csprojAssemblyReference.cache
+/home/mason/git_repo/w0422681/SAAD1001/M01Mono/Calc/Calc/obj/x86/Debug/Calc.csproj.CoreCompileInputs.cache
+/home/mason/git_repo/w0422681/SAAD1001/M01Mono/Calc/Calc/obj/x86/Debug/Calc.exe
+/home/mason/git_repo/w0422681/SAAD1001/M01Mono/Calc/Calc/obj/x86/Debug/Calc.pdb

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/GIT/w0422681/PROG2007/M02 Array/a2.c
+aux_func.c
+/GIT/w0422681/PROG2007/M02 Array/aux_func.c
+
+/GIT/w0422681/PROG2007/M02 Array/aux_func.c
+stdio.h
+-
+math.h
+-
+

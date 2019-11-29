@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MainProject.dir/main.cpp.o  -o MainProject -Wl,-rpath,/mnt/c/GIT/w0422681/PROG2100/Assignment3/Library/cmake-build-debug /mnt/c/GIT/w0422681/PROG2100/Assignment3/Library/cmake-build-debug/libLibrary.so 

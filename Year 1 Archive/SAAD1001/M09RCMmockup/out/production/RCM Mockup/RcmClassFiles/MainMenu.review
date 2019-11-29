@@ -1,0 +1,25 @@
+File: MainMenu.java
+Author: Mason Fraser
+W-number: w0422681
+
+Date Reviewed last: Apr. 3rd. 2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# CJ = Cadel Jones
+# ZD = Zac Dunn
+
+ZD-01; R00; Missing Author Name; NEW
+ZD-02; Line 164; SMELL-M02; Method is excessively long. I suggest breaking it up; NEW
+ZD-02; Line 232; SMELL-M02; Method is excessively long. I suggest breaking it up; NEW
+
+CJ-00;;; Well commented code!; NA
+CJ-01; line 0; R00; Missing author's name; NEW
+CJ-02; line 36;; Unused commented-out code; NEW
+CJ-04; line 141;; Unused variable you redfine it in line 148; NEW
+CJ-05; line 151;; Unused commented-out code; NEW
+CJ-07; line 304;; Unused commented-out code; NEW

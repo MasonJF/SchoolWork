@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<h1>Result</h1>
+
+<!-- Get session var
+     https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#expression-basic-objects -->
+<h1>Session Variable: session.sessionCarModel </h1>
+<p th:text="'modelNumber: ' + ${session.sessionCarModel.modelNumber}" />
+<p th:text="'model: ' + ${session.sessionCarModel.modelName}" />
+
+<br>
+
+<h1>Result</h1>
+<p th:text="'modelNumber: ' + ${session.sessionCarModel.modelNumber}" />
+<p th:text="'model: ' + ${session.sessionCarModel.modelName}" />
+<a href="/car2">Submit another message</a>
+</body>
+</html>

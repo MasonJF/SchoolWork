@@ -1,0 +1,22 @@
+======= File: NetReader.review ========
+
+File: NetReader.java
+Author: Russell Shanahan
+W-number: notreallysuresorryruss.
+
+Date Reviewed last: Feb 12 2019
+Date fixed last: Feb 12 2019
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# MF = Mason Fraser
+#
+MF-01; line 1; R00; Missing author's name; NEW
+
+
+Looks good to me.
+
+MF-01; line 1; R00; Missing author's name; F

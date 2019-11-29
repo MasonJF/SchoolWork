@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28ae1ed0-7a8b-4ff1-a9a7-b2ce1bd4e9a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../INET2005/M10/Spring04_FormSubmission/src/main/java/hello/DataBaseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../INET2005/M10/Spring04_FormSubmission/src/main/java/hello/DataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../INET2005/M10/Spring04_FormSubmission/src/main/java/hello/DataModelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hsqldb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/Database/Testdb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../INET2005/Spring04_FormSubmission/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../INET2005/Spring04_FormSubmission/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/Spring05_Beans.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../INET2005/Spring05_Beans/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Game_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Game_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/AirVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/AirVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/FireBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/FireBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/LandVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/LandVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Motorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lwjglb/game/DummyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lwjglb/game/DummyGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/AirVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/AirVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/FireBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/FireBullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/LandVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/LandVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/Motorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/Motorcycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/Vehicle$steeringWheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/lwjglb/engine/items/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/lwjglb/game/DummyGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/lwjglb/game/DummyGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/Database/Testdb.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-275">
+                    <caret line="116" column="29" selection-start-line="116" selection-start-column="29" selection-end-line="116" selection-end-column="29" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/ResultSet.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-359">
+                    <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/game/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/AirVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-281">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/game/DummyGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-569">
+              <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/LandVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Motorcycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="192" selection-start-line="192" selection-end-line="192" />
+              <folding>
+                <element signature="e#5913#5914#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/GameItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1270#1271#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addmes</find>
+      <find>negate</find>
+      <find>sam</find>
+      <find>RandomSam</find>
+      <find>does</find>
+      <find>db_file</find>
+      <find>sample</find>
+      <find>gameItem</find>
+      <find>drop</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/org/lwjgl/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Attack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Health.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/RearDefenseMine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/StationaryWeapon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/ChimneyBlast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/game/GameGUI.form" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/game/GameGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/GameItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/GameItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/LandVehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/ProjectileWeapon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/GameItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/SamMissle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Motorcycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/ProjectileWeapon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/SamMissle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/FireSonicWave.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/FireSonicWave.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Attack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/StationaryWeapon.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/GameItemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/LandVehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GameItemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/GameItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/AirVehicle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/GameItemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/game/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Motorcycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/FireBullet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/AirVehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/Database/Testdb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/game/DummyGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/LandVehicle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1432" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PROG1400/Eclipse_WS/lib/hsqldb.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40465117" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE" />
+      <recent name="org.lwjglb.engine.items" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\w0422681\PROG2200\Game_02\src\main\java\org\lwjglb\engine\items" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.lwjglb.Database" />
+      <recent name="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE" />
+      <recent name="org.lwjglb.engine.items" />
+      <recent name="org.lwjglb.engine" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GIT\w0422681\PROG2200\Game_02\src\main\java\org\lwjglb\ThisBetterWorkStupidFuckingUnitTestingGARBAGE" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_211" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.game.Main" />
+      <module name="Game_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testdb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.Database.Testdb" />
+      <module name="Game_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameItemTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE" />
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE.GameItemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameItemTest.doesItCollide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE" />
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.ThisBetterWorkStupidFuckingUnitTestingGARBAGE.GameItemTest" />
+      <option name="METHOD_NAME" value="doesItCollide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameItemTest.doesItCollide3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.engine.items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lwjglb.engine.items" />
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.engine.items.GameItemTest" />
+      <option name="METHOD_NAME" value="doesItCollide3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Testdb" />
+        <item itemvalue="JUnit.GameItemTest (1)" />
+        <item itemvalue="JUnit.GameItemTest.doesItCollide" />
+        <item itemvalue="JUnit.GameItemTest.doesItCollide3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28ae1ed0-7a8b-4ff1-a9a7-b2ce1bd4e9a9" name="Default Changelist" comment="" />
+      <created>1570806175024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570806175024</updated>
+      <workItem from="1570806176237" duration="153000" />
+      <workItem from="1570806366177" duration="658000" />
+      <workItem from="1570808728632" duration="3251000" />
+      <workItem from="1571139888430" duration="12804000" />
+      <workItem from="1571326171763" duration="12455000" />
+      <workItem from="1571404436028" duration="7797000" />
+      <workItem from="1571744284028" duration="5145000" />
+      <workItem from="1571754073598" duration="618000" />
+      <workItem from="1572007943227" duration="1018000" />
+      <workItem from="1572102011797" duration="820000" />
+      <workItem from="1572351324643" duration="42000" />
+      <workItem from="1572454749763" duration="1891000" />
+      <workItem from="1573137804694" duration="313000" />
+      <workItem from="1573144342381" duration="18713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameItemTest - 2019.10.15 at 12h 16m 19s.xml">
+      <configuration name="GameItemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest - 2019.10.15 at 12h 16m 59s.xml">
+      <configuration name="GameItemTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_doesItCollide5 - 2019.10.22 at 10h 02m 07s.xml">
+      <configuration name="GameItemTest.doesItCollide5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_doesItCollide3 - 2019.10.30 at 13h 59m 35s.xml">
+      <configuration name="GameItemTest.doesItCollide3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_doesItCollide - 2019.10.30 at 14h 14m 16s.xml">
+      <configuration name="GameItemTest.doesItCollide" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_(1) - 2019.10.30 at 14h 14m 45s.xml">
+      <configuration name="GameItemTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_(1) - 2019.10.30 at 14h 14m 59s.xml">
+      <configuration name="GameItemTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_(1) - 2019.10.30 at 14h 15m 13s.xml">
+      <configuration name="GameItemTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_(1) - 2019.10.30 at 14h 15m 21s.xml">
+      <configuration name="GameItemTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameItemTest_(1) - 2019.10.30 at 14h 20m 12s.xml">
+      <configuration name="GameItemTest (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65678000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1432" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2299427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32974428" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497851" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502149" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.260745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497851" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502149" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/lwjglb/game/DummyGame.java</url>
+          <line>433</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/lwjglb/Database/Testdb.java</url>
+          <line>220</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/LandVehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/lwjglb/engine/items/GameItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/TextItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/IGameLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/StationaryWeapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/joml/joml/1.9.9/joml-1.9.9.jar!/org/joml/Vector3f.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/AirVehicle.review">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/ProjectileWeapon.review">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/models/russ/makeMesh_01.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/models/russ/makeMesh_02.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/models/russ/makeMesh_03.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/models/russ/makeMesh_04.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Vehicle.review">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="304" column="9" selection-start-line="304" selection-start-column="9" selection-end-line="304" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-assimp/3.1.6/lwjgl-assimp-3.1.6.jar!/org/lwjgl/assimp/Assimp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="533" selection-start-line="533" selection-end-line="533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/loaders/assimp/StaticMeshesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Attack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/GIT/w0422681/PROG2200/Game_02/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="145.0" y="272.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/GIT/w0422681/PROG2200/Game_02/src/main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.lwjglb.game.DummyGame">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.lwjglb.game.DummyGame</OriginalElement>
+          <nodes>
+            <node x="156.0" y="462.0">org.lwjglb.engine.items.AirVehicle</node>
+            <node x="744.0" y="0.0">org.lwjglb.engine.items.StationaryWeapon</node>
+            <node x="345.0" y="539.0">org.lwjglb.engine.items.Motorcycle</node>
+            <node x="89.0" y="77.0">org.lwjglb.engine.items.Vehicle</node>
+            <node x="550.5" y="0.0">org.lwjglb.engine.IGameLogic</node>
+            <node x="153.0" y="0.0">org.lwjglb.engine.items.Health</node>
+            <node x="0.0" y="710.0">org.lwjglb.engine.items.SamMissle</node>
+            <node x="0.0" y="506.0">org.lwjglb.engine.items.LandVehicle</node>
+            <node x="518.0" y="77.0">org.lwjglb.game.DummyGame</node>
+            <node x="249.0" y="0.0">org.lwjglb.engine.items.Attack</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.lwjglb.engine.items.Motorcycle" target="org.lwjglb.engine.items.Vehicle">
+              <point x="0.0" y="-24.5" />
+              <point x="409.0" y="437.0" />
+              <point x="341.5" y="437.0" />
+              <point x="101.0" y="167.5" />
+            </edge>
+            <edge source="org.lwjglb.game.DummyGame" target="org.lwjglb.engine.IGameLogic">
+              <point x="0.0" y="-167.5" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="org.lwjglb.engine.items.Vehicle" target="org.lwjglb.engine.items.Attack">
+              <point x="75.75" y="-167.5" />
+              <point x="316.25" y="52.0" />
+              <point x="290.0" y="52.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="org.lwjglb.engine.items.Vehicle" target="org.lwjglb.engine.items.Health">
+              <point x="-75.75" y="-167.5" />
+              <point x="164.75" y="52.0" />
+              <point x="191.0" y="52.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="org.lwjglb.engine.items.AirVehicle" target="org.lwjglb.engine.items.Vehicle">
+              <point x="0.0" y="-101.5" />
+              <point x="0.0" y="167.5" />
+            </edge>
+            <edge source="org.lwjglb.engine.items.LandVehicle" target="org.lwjglb.engine.items.Vehicle">
+              <point x="0.0" y="-57.5" />
+              <point x="68.0" y="437.0" />
+              <point x="139.5" y="437.0" />
+              <point x="-101.0" y="167.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-190.0" y="520.0" />
+          <SelectedNodes>
+            <node>org.lwjglb.engine.items.AirVehicle</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/SamMissle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Motorcycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/FireSonicWave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/ProjectileWeapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/SamMissle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/FireSonicWave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/ProjectileWeapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/GameItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="155" column="20" selection-start-line="155" selection-start-column="20" selection-end-line="155" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/StationaryWeapon.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Attack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Health.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/LandVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/AirVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GameItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/lwjglb/ThisBetterWorkStupidFuckingUnitTestingGARBAGE/GameItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/FireBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_file.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/GameItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="e#5913#5914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/GameEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Motorcycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/AirVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/LandVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/engine/items/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-359">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/Database/Testdb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="116" column="29" selection-start-line="116" selection-start-column="29" selection-end-line="116" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/lwjglb/game/DummyGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569">
+          <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40465117" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40465117" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Game_02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_211</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hsqldb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40465117" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

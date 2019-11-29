@@ -1,0 +1,18 @@
+
+File: MainActivity.java
+Author: Mason Fraser
+W-number: W0422681
+
+Date Reviewed last: 12-11-19
+Date fixed last: 12-11-19
+
+ZD = Zac Dunn
+TB = Thomas Banks
+
+ZD-01; Line 1; Use Javadoc standard comments; No copyrighting at top of project; FIXED
+ZD-02; Use Javadoc standard comments; No Java Doc Strings; FIXED
+ZD-03; No error Handling; TODO
+ZD-04; Log sparingly; Zero logging within the program; TODO
+ZD-03; Imports; Unused Imports; FIXED
+
+TB-01; Line 21-22; Naming Conventions; Variable name must be all caps with underscores; NEW - nah.

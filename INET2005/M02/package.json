@@ -1,0 +1,19 @@
+{
+  "name": "m02",
+  "version": "1.0.0",
+  "description": "Zac and Adam are yelling at each other and it's hilarious",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel streets.html",
+    "build": "parcel build --public-url . streets.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mason",
+  "license": "ISC",
+  "dependencies": {
+    "ol": "^5.3.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}

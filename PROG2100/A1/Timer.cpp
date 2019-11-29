@@ -7,11 +7,13 @@
 
 #include "Timer.h"
 
-int Timer::time_{0};
+//int Timer::time_{0};
 
-Timer::Timer()
-{
+int Timer::getTime() {
+    return time_;
 }
+
+Timer::Timer():time_{0}{}
 
 Timer::~Timer()
 {
@@ -20,7 +22,7 @@ int Timer::tic()
 {
 	return ++time_;
 }
-int Timer::time()const
+int Timer::time()
 {
 	return time_ ;
 }

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+read -p "What directory would you like to copy over: " arg1
+if [ ! -z "$arg1" ]
+then
+  rsync -rq it806@142.177.80.67:~/Assignment1 ~/$arg1
+else
+  echo "You cannot have an empty directory to copy from."
+fi

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+ <table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Pet Name</th>
+    <th>Pet Type</th>
+  </tr>
+
+     <tr> {% for owner in master%} </tr>
+          <td>{{ owner.pets_owner }}</td>
+          <td>{{ owner.pet_name }}</td>
+          <td>{{ owner.pet_type }}</td>
+      {% endfor %}
+
+
+</table>
+</body>
+</html>

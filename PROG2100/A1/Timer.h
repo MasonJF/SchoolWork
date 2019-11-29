@@ -14,9 +14,12 @@ public:
 	Timer();
 	virtual ~Timer();
 	int tic();
-	int time()const;
-private: 
-	static int time_; 
+	int time();
+
+    int getTime();
+
+private:
+	int time_;
 };
 
 #endif /*TIMER_H_*/

@@ -1,0 +1,3 @@
+C:/GIT/w0422681/PROG2100/Tanning/cmake-build-debug/CMakeFiles/Tanning.dir
+C:/GIT/w0422681/PROG2100/Tanning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GIT/w0422681/PROG2100/Tanning/cmake-build-debug/CMakeFiles/rebuild_cache.dir

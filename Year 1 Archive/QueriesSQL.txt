@@ -1,0 +1,57 @@
+SQL QUERY 1:
+  select genres, title, movieid from piotr_s.movie
+  where lower(genres) like '%animation%comedy%'
+
+SQL QUERY 2:
+  select distinct count(rating), movieid from piotr_s.rating
+  where movieid = 153
+  group by movieid
+
+SQL QUERY 3:
+  select title from piotr_s.movie
+  where movieid = 153
+
+SQL QUERY 4:
+  select title from piotr_s.movie
+  where title like '%(1976)%'
+  group by
+
+SQL QUERY 5:
+  select avg(rating), movieid
+  from piotr_s.rating
+  group by movieid
+  having avg(rating) > 4.
+
+  BOOOOOONUS:
+  select m.title, avg(r.rating)
+  from piotr_s.movie M
+  full outer join piotr_s.rating R on m.movieid = r.movieid
+  group by m.title
+  having avg(r.rating) > 4.5
+
+
+====  MONGODB QUERIES ====
+
+Mongo Query 1:
+db.getCollection('movies').find
+(
+{$and: [{genres:"Animation"},
+{genres:"Comedy"}]}
+)
+
+Mongo Query 2:
+db.getCollection('ratings').count
+(
+{$and: [{movie_id:153}]}
+)
+
+Mongo Query 3:
+db.getCollection('movies').distinct("title",{_id:153})
+
+Mongo Query 4:
+db.getCollection('movies').find
+(
+{title: /.*1976.*/}
+)
+Mongo Query 5:
+I couldn't figure this one out, need to learn the syntax better.

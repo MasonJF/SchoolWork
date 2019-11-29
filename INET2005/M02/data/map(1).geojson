@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","id":"483167828","geometry":{"type":"LineString","coordinates":[[16.4128982,48.21976249999997],[16.4139828,48.21894370000001]]},"properties":{"highway":"primary","is_in":"Austria,Vienna,Wien","lanes":4,"maxspeed":50,"name":"Handelskai","ref":"B14","source:maxspeed":"AT:urban"}}]}

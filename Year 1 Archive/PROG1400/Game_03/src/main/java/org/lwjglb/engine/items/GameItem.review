@@ -1,0 +1,23 @@
+======= File: gameitem.review ========
+
+File: gameitem.java
+Author: Mason Fraser
+W-number: w0422681
+
+Date Reviewed last: 3/11/2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# CJ=Cadel Jones
+#
+CJ-01; line 1; R00; Missing author's name; NEW
+CJ-02; line 7; SM-A02; lastAdded gets imported from Scene which means the call for it doesnt inform the reader about the origin of that var. It also doesnt need to be imported it should be called with a getter; NEW
+CJ-03; line 116; UNUSED; Unused method; NEW
+CJ-04; line 151; UNUSED; Unused method; NEW
+CJ-05; line 151; J04; Could be protected; NEW
+
+ZD; SMELL-C03; God Object. Could be split amongst Car and Plane; NEW

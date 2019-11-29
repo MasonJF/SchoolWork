@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c2b5b44-c539-4641-9b74-fb43df6ce2d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/notsynched/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/notsynched/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/notsynched/thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/notsynched/thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/notsynched/threadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/notsynched/threadMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/synch/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/synch/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/synch/threadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse_WS/Module_07_Threads/src/synchMethods/synch/threadMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse_WS/dvt_cli_port" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse_WS/dvt_cli_port" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_03/src/main/java/org/lwjglb/game/GameGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_04/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_04/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_04/src/main/java/org/lwjglb/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_04/src/main/java/org/lwjglb/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeoTools/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeoTools/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeoTools/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeoTools/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeoTools/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeoTools/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>render</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RQGnXLfVnRC4Z4YQbMOvaopjla" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550235680874" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Game_03" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\PROG1400\Idea_WS\Game_02\src\main\resources\models\russ" />
+      <recent name="C:\Idea\russgl2\src\main\java\org\lwjglb" />
+      <recent name="C:\Idea\russgl2\src\main\java\org\lwjgl" />
+      <recent name="C:\Idea\russgl2\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\PROG1400\Idea_WS\Game_02\src\main\resources\models\russ" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="GameGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.game.GameGUI" />
+      <module name="russgl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lwjglb.game.Main" />
+      <module name="russgl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjglb.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lwjgl.game.Main" />
+      <module name="russgl2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lwjgl.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.GameGUI" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c2b5b44-c539-4641-9b74-fb43df6ce2d1" name="Default Changelist" comment="" />
+      <created>1544397658987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544397658987</updated>
+      <workItem from="1569592081441" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>russgl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

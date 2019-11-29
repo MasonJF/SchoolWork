@@ -1,0 +1,1 @@
+./srcds_run -game csgo -console -usercon +sv_setsteamaccount 82B645CE4BB84B197E744FFAF2858281 -net_port_try 1

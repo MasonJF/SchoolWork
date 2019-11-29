@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{#Defined blocks are: title, sidebar, and content#}
+
+<head>
+    <meta charset="UTF-8">
+    {% load static %}
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+
+    <title>{% block title %}My amazing site{% endblock %}</title>
+</head>
+<body>
+{#https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp#}
+<!-- A grey horizontal navbar that becomes vertical on small screens -->
+<nav class="navbar navbar-expand-sm bg-light">
+    {% block sidebar %}
+        <!-- Links -->
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'members:announcements' %}">announcements</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'members:members' %}">members</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'members:conferences' %}">conferences</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'members:events' %}">events</a>
+            </li>
+        </ul>
+        </nav>
+    {% endblock %}
+
+{#https://www.w3schools.com/bootstrap4/bootstrap_flex.asp#}
+<div class="container mt-3">
+    <h2>Flex</h2>
+    <p>To create a flexbox container and transform direct children into flex items, use the d-flex class:</p>
+    <p>Russ added flex-grow-1 to first div to allow it to fill the screen:</p>
+    <div class="d-flex p-3 bg-info text-white">
+        <div class="p-2 bg-success text-light flex-grow-1">
+            <div id="content-1">
+                {% block content-1 %} Content-1 block {% endblock %}
+            </div>
+        </div>
+        <div class="p-2 bg-success text-light">
+            <div id="content-2">
+                {% block content-2 %} Content-2 block {% endblock %}
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

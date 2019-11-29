@@ -1,0 +1,10 @@
+{% extends "Models/base.html" %}
+{#{% extends "Models/base2.html" %}#}
+{% block content %}
+{#    <li><a href="/Models/">Index</a></li>#}
+{#    <li><a href="/Models/class_list">Class List</a></li>#}
+    <h2>Students</h2>
+    {% for stu in student%}
+        <li><a href="{% url 'Models:studentDetail' stu.id %}">{{  stu.student_name }} </a></li>
+    {% endfor %}
+{% endblock %}

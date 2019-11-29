@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/GIT/w0422681/PROG2100/Assignment3/Library
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/GIT/w0422681/PROG2100/Assignment3/Library/cmake-build-debug

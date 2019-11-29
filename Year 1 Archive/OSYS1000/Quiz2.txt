@@ -1,0 +1,27 @@
+
+#! /bin/bash
+
+[  -z  "$1"  ]  ||  [  -d "$1" ]  ||  exit 1
+
+cd $1
+
+f=$( ls  |  wc   -w )
+a=$( ls -A | wc   -w )
+
+
+h=`expr $a - $f `
+
+echo "You've got there $a items, $f visible and $h hidden."
+
+exit 0
+
+
+
+
+
+
+This script tells you how many items are visable and hidden in the given directory
+You can pass it and argument by adding a directory to the command line.
+Eg. (sh scriptNameHere ./GIT_REPOS)  will tell me that my git repo has 2 visible
+files (or folders, in my case) but if I do it in my home directory (sh scriptNameHere)
+it will tell me I have 29 visible files and 35 hidden files.

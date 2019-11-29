@@ -21,7 +21,7 @@ class Plane;
 /// implemented using a circular buffer
 class Queue {
 public:
-	explicit Queue(int = 7 );
+	explicit Queue(int = 10 );
 	Queue(const Queue&) = delete;
 	Queue(Queue&&)= delete;
 	Queue& operator=(const Queue&) = delete;

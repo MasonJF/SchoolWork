@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GIT/w0422681/PROG2100/Tanning/src/Bed.h
+iostream
+-
+
+C:/GIT/w0422681/PROG2100/Tanning/src/Salon.cpp
+Salon.h
+C:/GIT/w0422681/PROG2100/Tanning/src/Salon.h
+
+C:/GIT/w0422681/PROG2100/Tanning/src/Salon.h
+Bed.h
+C:/GIT/w0422681/PROG2100/Tanning/src/Bed.h
+
+C:/GIT/w0422681/PROG2100/Tanning/src/main.cpp
+iostream
+-
+Bed.h
+C:/GIT/w0422681/PROG2100/Tanning/src/Bed.h
+Salon.h
+C:/GIT/w0422681/PROG2100/Tanning/src/Salon.h
+

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4F01A992-8837-4E1C-9645-929E99DB30D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calc/MainWindow.cs">
+    <Files>
+      <File FileName="Calc/MainWindow.cs" Line="34" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

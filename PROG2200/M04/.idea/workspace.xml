@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="593421d4-f30d-416a-833a-c627389fc1b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../M02/.idea/libraries/lwjgl_assimp_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M02/src/Main/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/IGameLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/MouseInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/SceneLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/ArrTexture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/FontTexture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/FrustumCullingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/GBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/HeightMapMesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/InstancedMesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/Mesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/SceneBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/ShaderProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/Texture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/Transformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/anim/AnimGameItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/anim/AnimatedFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/anim/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/lights/DirectionalLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/lights/PointLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/lights/SpotLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/particles/FlowParticleEmitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/particles/IParticleEmitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/particles/Particle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/shadow/ShadowBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/shadow/ShadowCascade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/shadow/ShadowRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/shadow/ShadowTestRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/graph/weather/Fog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/items/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/items/GameItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/items/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/items/SkyBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/items/Terrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/items/TextItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/loaders/assimp/AnimMeshesLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/loaders/assimp/Bone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/loaders/assimp/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/loaders/assimp/StaticMeshesLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/loaders/assimp/TextureCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/loaders/assimp/VertexWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/sound/SoundBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/sound/SoundListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/sound/SoundManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/engine/sound/SoundSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/CameraBoxSelectionDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/DummyGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/GameGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/GameGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/Hud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/MouseBoxSelectionDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/fonts/Apache License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/fonts/CREDITS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/fonts/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/bob/boblamp.md5anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/bob/boblamp.md5mesh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/buffer_pass_mess.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/bunny.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/compass.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/cube.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/house/SOURCE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/house/house.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/house/house.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/house/house_text.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/house/house_text_bmap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/monster/monster.md5anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/monster/monster.md5mesh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/particle.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/plane.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/quad.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/makeMesh_01.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/makeMesh_02.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/makeMesh_03.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/makeMesh_04.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/russ9.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/russ9.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/torus.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/russ/torus.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/skybox.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/terrain/terrain.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/models/terrain/terrain.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/depth_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/depth_vertex.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/dir_light_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/fog_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/gbuffer_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/gbuffer_vertex.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/light_vertex.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/particles_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/particles_vertex.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/point_light_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/sb_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/sb_vertex.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/test_fragment.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/shaders/test_vertex.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/sounds/CREDITS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/sounds/background.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/sounds/beep.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/sounds/fire.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_body_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_body_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_face_local.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_face_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_helmet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_helmet_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/guard1_helmet_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/iron_grill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/round_grill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/bob/round_grill_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/grassblock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/heightmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/gob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/gob2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/gob2_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/gob_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/hellknight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/hellknight_local.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/hellknight_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/tongue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/tongue_local.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/monster/tongue_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/particle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/particle_anim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/particle_tmp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/rock_normals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/skybox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/terrain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/main/resources/textures/terrain_textures.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_02/src/test/java/org/lwjgl/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AirVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChimneyBlast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FireBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FireSonicWave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Health.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LandVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjectileWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RearDefenseMine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StationaryWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc-files/Vehicle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/AirVehicle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/AirVehicle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/AirVehicle.pullWheel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/AirVehicle.pullWheel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/Attack.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/Attack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/ChimneyBlast.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/ChimneyBlast.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/FireBullet.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/FireBullet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/FireSonicWave.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/FireSonicWave.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/Health.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/Health.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/LandVehicle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/LandVehicle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/RearDefenseMine.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/RearDefenseMine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/Vehicle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/Vehicle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/Vehicle.steeringWheel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/Vehicle.steeringWheel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/Weapon.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/Weapon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/JavaDocs/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/JavaDocs/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/M02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/M02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/AirVehicle$pullWheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/AirVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/Attack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/ChimneyBlast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/FireBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/FireSonicWave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/Health.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/LandVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/RearDefenseMine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/Vehicle$steeringWheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/out/production/M02/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/AirVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/AirVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/Attack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/Attack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/ChimneyBlast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/ChimneyBlast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/FireBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/FireBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/FireSonicWave.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/FireSonicWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/Health.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/Health.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/LandVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/LandVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/RearDefenseMine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/RearDefenseMine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/Main/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/src/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/src/package-info.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/Hud.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/Game_02/russgl2.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1373" />
+    <option name="y" value="92" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="anim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="particles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="lwjglb" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="Game_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="doc-files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GIT\w0422681\PROG2200\M04" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="M04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="593421d4-f30d-416a-833a-c627389fc1b7" name="Default Changelist" comment="" />
+      <created>1570805596025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570805596025</updated>
+      <workItem from="1570805645492" duration="241000" />
+      <workItem from="1570805965372" duration="104000" />
+      <workItem from="1570806104612" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="357000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1448" y="-1" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Game_02/src/main/java/org/lwjglb/game/Hud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_211</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libLibrary.so -o libLibrary.so CMakeFiles/Library.dir/ClientSocket.cpp.o CMakeFiles/Library.dir/ServerSocket.cpp.o CMakeFiles/Library.dir/Socket.cpp.o 

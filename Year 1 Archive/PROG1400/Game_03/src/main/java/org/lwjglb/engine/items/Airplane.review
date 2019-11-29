@@ -1,0 +1,18 @@
+======= File: Airplane.review ========
+
+File: Airplane.java
+Author: Mason Fraser
+W-number: w0422681
+
+Date Reviewed last: 3/11/2019
+Date fixed last:
+
+# Comment starts with #
+# resolution (F=Fixed,NEW=New Issue, NA=No Action...others?)
+# Initials + Issue number; line xx; Rule #; comment text; resolution
+#
+# Use comment numbering from reviewer's name...For example:
+# CJ=Cadel Jones
+#
+CJ-01; line 1; R00; Missing author's name; NEW
+CJ-02; line 1; SM-C11; Unused Commented-out code; NEW

@@ -1,0 +1,15 @@
+{#{% extends "Models/base.html" %}#}
+{% extends "Models/base.html" %}
+{% block content %}
+    <ul>
+{#        <li><a href="/Models/">Index</a></li>#}
+{#        <li><a href="/Models/class_list">Class List</a></li>#}
+{#        <li><a href="/Models/student_list">Student List</a></li>#}
+    <h2>{{ course.course_name }}</h2>
+    {% for day in course.course_days.all %}
+        {% for time in course.course_time.all %}
+            <li> {{ day }} at {{ time }} </li>
+        {% endfor %}
+    {% endfor %}
+    </ul>
+{% endblock %}

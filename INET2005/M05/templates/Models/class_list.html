@@ -1,0 +1,10 @@
+{% extends "Models/base.html" %}
+{#{% extends "Models/base2.html" %}#}
+{% block content %}
+{#    <li><a href="/Models/">Index</a></li>#}
+{#    <li><a href="/Models/student_list">Student List</a></li>#}
+        <h2>Courses </h2>
+    {% for cla in course%}
+        <li><a href="{% url 'Models:classDetail' cla.id %}">{{  cla.course_name }}</a></li>
+    {% endfor %}
+{% endblock %}

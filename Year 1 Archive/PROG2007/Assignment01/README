@@ -1,0 +1,14 @@
+Hello end user;
+This simple program will calculate the mass of a stack of cannon balls
+to use the program you need to first compile it.
+
+COMPILE INSTRUCTIONS:
+
+1. Open terminal
+2. CD to directory of canball.c file
+3. copy paste
+       gcc -o cannonball canball.c
+4. input into terminal
+       ./cannonball
+5. Follow the steps in terminal
+6. ;) ENJOY

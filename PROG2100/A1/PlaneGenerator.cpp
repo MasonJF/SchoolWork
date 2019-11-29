@@ -3,24 +3,26 @@
 //
 
 #include "PlaneGenerator.h"
+#include <iostream>
 
 
-PlaneGenerator::~PlaneGenerator() {
+PlaneGenerator::~PlaneGenerator() = default;
 
-}
-
-PlaneGenerator::PlaneGenerator(Queue * theQue, Timer * theTimer) {
+PlaneGenerator::PlaneGenerator(Queue * theQue, Timer * theTimer, int m) {
     this->tempQueue = theQue;
     this->timer = theTimer;
+    this->delay = new Delay(m);
+    time = timer->getTime() + delay->getDelay();
 }
 
 void PlaneGenerator::tickUpdate() {
-    Plane * plane = new Plane(timer->time());
-    if (tempQueue->enqueue(plane)) {
-        std::cout << plane->id_ << std::endl;
-    }else{
-        std::cout << "Fail" << std::endl;
+    if(timer->getTime() >= time) {
+        Plane * plane = new Plane(timer->getTime());
+        tempQueue->enqueue(plane);
+        time = timer->getTime() + delay->getDelay();
+//        std::cout << time << std::endl;
     }
+//    std::cout << timer->getTime() << std::endl;
 
 }
 

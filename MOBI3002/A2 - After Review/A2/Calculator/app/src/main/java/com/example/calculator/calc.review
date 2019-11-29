@@ -1,0 +1,7 @@
+ZD-01; Line 1; Use Javadoc standard comments; No copyrighting at top of project; NEW
+ZD-02; Use Javadoc standard comments; No Java Doc Strings; NEW
+ZD-03; No error Handling; NEW
+ZD-04; Log sparingly; Zero logging within the program; NEW
+ZD-03; Imports; Unused Imports; NEW
+
+TB-01; Line 21-22; Naming Conventions; Variable name must be all caps with underscores; NEW

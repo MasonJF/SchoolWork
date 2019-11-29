@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e989f7-274f-43bc-a8f3-c2bf0cdd43ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../M02/src/AirVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../M02/src/LandVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../M02/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/engine/items/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/engine/items/SamMissle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2MidTerm/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2MidTerm/src/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/engine/items/GameItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/engine/items/GameItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/engine/items/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/engine/items/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/game/DummyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/src/main/java/org/lwjglb/game/DummyGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/src/test/java/org/lwjglb/engine/items/GameItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/src/test/java/org/lwjglb/engine/items/GameItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/engine/items/GameItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/engine/items/GameItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/engine/items/Vehicle$steeringWheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/engine/items/Vehicle$steeringWheel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/engine/items/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/engine/items/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/game/DummyGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/target/classes/org/lwjglb/game/DummyGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game_02/target/test-classes/org/lwjglb/engine/items/GameItemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game_02/target/test-classes/org/lwjglb/engine/items/GameItemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../M02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../M02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SyncThread/DorthyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SyncThread/DorthyClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SyncThread/DorthyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JumbledThread/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -65,10 +69,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JumbledThread/Color.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JumbledThread/Character.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -76,8 +89,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SyncThread/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10931">
+              <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -123,9 +145,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2840" />
-    <option name="y" value="158" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -135,6 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,8 +187,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,16 +282,20 @@
       <workItem from="1568983304979" duration="1493000" />
       <workItem from="1569354163295" duration="79000" />
       <workItem from="1569359892604" duration="8000" />
+      <workItem from="1571749571451" duration="25000" />
+      <workItem from="1571749757656" duration="236000" />
+      <workItem from="1571750001267" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14444000" />
+    <option name="totallyTimeSpent" value="17423000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2728" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-7" y="2" width="1456" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30420712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31733525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,27 +334,6 @@
     <entry file="file://$PROJECT_DIR$/M1andahalf.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumbledThread/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SyncThread/DorthyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumbledThread/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SyncThread/Color.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -343,6 +348,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10931">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JumbledThread/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SyncThread/DorthyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SyncThread/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JumbledThread/DorthyClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -350,17 +383,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JumbledThread/Character.java">
+    <entry file="file://$PROJECT_DIR$/src/JumbledThread/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SyncThread/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/JumbledThread/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
